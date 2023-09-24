@@ -57,7 +57,7 @@ public class ExampleError {
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items.<sup>[1]</sup>
+Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#References)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -83,7 +83,10 @@ You can use following markdown format to create tables:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lighting | `:cloud_with_lightning` | 🌩️ |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.<sup>[2]</sup>
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#References)
+
+![img2](https://github.com/sanju2/github-docs-example/assets/41699526/494d8a2c-cca1-48a3-8541-e329f5998efe)
+
 
 ## References
 
