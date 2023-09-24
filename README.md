@@ -71,12 +71,25 @@ Here are some examples
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | Cloud | `:cloud:` | :cloud: |
+| Cloud with lighting | `:cloud_with_lightning` | 🌩️ |
 
+## Step 5 - how to create a table
+
+You can use following markdown format to create tables:
+
+```md
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lighting | `:cloud_with_lightning` | 🌩️ |
+```
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.<sup>[2]</sup>
 
 ## References
 
 - [ChatGPT](https://chat.openai.com/)
-- [Basic writing and formatting syntax(Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
+- [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
 - [GFM - Tasks List}(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
 - [GFM - Emoji Cheet Sheet](https://gist.github.com/rxaviers/7360908)
+- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
 
