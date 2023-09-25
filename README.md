@@ -87,6 +87,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 <img src="/assets/img2.jpg" width="300px" height="200px" />
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## References
 
 - [ChatGPT](https://chat.openai.com/)
