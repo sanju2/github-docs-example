@@ -57,7 +57,7 @@ public class ExampleError {
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#References)
+Github extends Markdown to have a list where you can check off items.[^1]
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -83,16 +83,14 @@ You can use following markdown format to create tables:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lighting | `:cloud_with_lightning` | 🌩️ |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#References)
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[^2]
 
-![Photo of pipe character on our keyboard](/assets/img2.jpg)
-
+<img src="/assets/img2.jpg" width="300px" height="200px" />
 
 ## References
 
 - [ChatGPT](https://chat.openai.com/)
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
-- [GFM - Tasks List}(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
+[^1] : [GFM - Tasks List}(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
 - [GFM - Emoji Cheet Sheet](https://gist.github.com/rxaviers/7360908)
-- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
-
+[^2] : [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)
