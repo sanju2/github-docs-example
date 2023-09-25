@@ -55,7 +55,7 @@ public class ExampleError {
 
 > Here is an example of using a codeblock for and error that appear in bash.
 
-## Step 3 - Use Github Flavoured Markdown Task Lists
+## Step 2 - Use Github Flavoured Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items.[^1]
 
@@ -73,7 +73,7 @@ Here are some examples
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lighting | `:cloud_with_lightning` | 🌩️ |
 
-## Step 5 - how to create a table
+## Step 3 - how to create a table
 
 You can use following markdown format to create tables:
 
